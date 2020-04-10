@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularInt"
+    }
+  },
+  "defaultProject": "AngularInt",
+  "cli": {
+    "analytics": false
+  }
 }
