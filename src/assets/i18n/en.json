@@ -1,7 +1,6 @@
 {
-	"demo": {
-		"text": "﻿Interesting text",
-		"text2": "It's another text",
-		"title": "Translation demo"
-	}
+  "demo": "{\"text\"=>\"﻿ting tet\", \"text2\"=>\"It's another text\", \"title\"=>\"Translation demo\"}",
+  "demo.text": "﻿Interesting text",
+  "demo.text2": "It's another text",
+  "demo.title": "Translation demo"
 }

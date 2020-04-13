@@ -1,7 +1,6 @@
 {
-	"demo": {
-		"text": "﻿Dies ist eine einfache Applikation um die Funktionen von ngx-transalte zu demonstrieren.3",
-		"text2": "Ngx-transalte zu demonstrieren!",
-		"title": "Übersetzungs-Demo"
-	}
+  "demo": "{\"text\"=>\"﻿Dies ist eine einfache Applikation um die Funktionen von ngx-transalte zu demonstrieren.3\", \"text2\"=>\"Ngx-transalte zu demonstrieren!\", \"title\"=>\"Übersetzungs-Demo\"}",
+  "demo.text": "﻿Dies ist eine einfache Applikation um die Funktionen von ngx-transalte zu demonstrieren.3",
+  "demo.text2": "Ngx-transalte zu demonstri",
+  "demo.title": "Übersetzungs-Demo"
 }
