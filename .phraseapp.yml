@@ -5,9 +5,9 @@ phraseapp:
     sources:
     - file: ./src/assets/i18n/<locale_code>.json
       params:
-        file_format: angular_translate
+        file_format: nested_json
   pull:
     targets:
     - file: ./src/assets/i18n/<locale_code>.json
       params:
-        file_format: angular_translate
+        file_format: nested_json
