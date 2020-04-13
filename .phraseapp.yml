@@ -3,11 +3,11 @@ phraseapp:
   project_id: 5b8f18a154a6dc0db933366a56e0f453
   push:
     sources:
-    - file: ./i18n/<locale_code>.json
+    - file: ./src/assets/i18n/<locale_code>.json
       params:
         file_format: angular_translate
   pull:
     targets:
-    - file: ./i18n/<locale_code>.json
+    - file: ./src/assets/i18n/<locale_code>.json
       params:
         file_format: angular_translate
