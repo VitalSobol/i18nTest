@@ -1,0 +1,13 @@
+phraseapp:
+  access_token: 037845747bc3d60ad7bb266c2d33e45604793485f312677a870ebf89fc5954f9
+  project_id: 5b8f18a154a6dc0db933366a56e0f453
+  push:
+    sources:
+    - file: ./i18n/<locale_code>.json
+      params:
+        file_format: angular_translate
+  pull:
+    targets:
+    - file: ./i18n/<locale_code>.json
+      params:
+        file_format: angular_translate
