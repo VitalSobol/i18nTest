@@ -1,7 +1,9 @@
 {
   "demo": {
+    "lox": "asd",
     "text": "﻿Interesting text asdaseaeasdasdasda",
     "text2": "It's another text",
     "title": "Translation demo"
-  }
+  },
+  "hello": "hello world"
 }

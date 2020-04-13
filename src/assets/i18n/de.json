@@ -1,7 +1,9 @@
 {
   "demo": {
+    "lox": "asdf",
     "text": "﻿Dies ist eine einfache Applikation um die Funktionen von ngx-transalte zu demonstrieren.3",
     "text2": "Ngx-transalte zu demonstrieren!",
     "title": "Übersetzungs-Demo"
-  }
+  },
+  "hello": "asdasda"
 }
