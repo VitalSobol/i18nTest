@@ -1,7 +1,508 @@
 {
-	"demo": {
-		"text": "﻿Interesting text",
-		"text2": "It's another text",
-		"title": "Translation demo"
-	}
+    "home": {
+        "title": "Hyppo Helper",
+        "description": "Are you ready to become a homeowner? Let’s find out!",
+        "startButtonText": "Start",
+        "startOverButtonText": "Start Over",
+        "myResultsButtonText": "Results",
+        "myDataButtonText": "My profile",
+        "termsOfUse": "Terms of Use",
+        "dataProtection": "Privacy Policy",
+        "weAreKeen": "We are Keen",
+        "warningPopup": {
+            "title": "Warning",
+            "description": "If you start over, your previously entered data as well as personal report will be lost",
+            "cancel": "Cancel",
+            "confirm": "Confirm"
+        }
+    },
+    "termsOfUse": {
+        "title": "Terms of Use / Legal Notices",
+        "generalRemarksTitle": "General remarks",
+        "generalRemarks": "The results of the application (hereinafter \"App\") are the result of the user's information entered into the App as well as assumptions and reference values.",
+        "noWarrantyOrGuaranteeTitle": "No warranty or guarantee",
+        "noWarrantyOrGuarantee": "Keen Innovation AG assumes no responsibility for the correctness or completeness of the information entered into the App by the user or of the results based on this information. \n\nKeen Innovation AG does not warrant or guarantee that the assumptions and reference values contained in the App are appropriate for the individual situation of the user. Rather, they are general assumptions and benchmarks. The results of the App are therefore, purely informative and are not a binding basis for the user's decisions. If the user makes decisions based on the results of the App, he does so at his own risk. \n\nWe advise users to seek expert advice before making decisions.\n\nNeither Keen Innovation AG nor its contractual partners, whether explicit or implicit, can guarantee or warrant the accuracy, reliability, up-to-dateness or completeness of the results of the App.\n\nKeen Innovation AG assumes no responsibility and makes no representation that the App functions uninterrupted or that the App or the server is free of malware or other harmful components.",
+        "noAdviceTitle": "No advice",
+        "noAdvice": "The information published in the App does not constitute an offer or a recommendation to carry out transactions, to buy or sell a (financial) product or to carry out other legal transactions or an invitation to submit an offer. Keen Innovation AG does not use the App for the purpose of providing you or any other third party with advice. Users are responsible for their own interpretation of the results. We strongly advise users to seek expert advice before making decisions.",
+        "disclaimerTitle": "Disclaimer",
+        "disclaimer": "Keen Innovation AG shall not be liable for any damages or losses of any kind resulting (i) from access to or use of the App or its elements or (ii) from the impossibility of accessing or using the App, (iii) from contact with Keen Innovation AG via the Internet or e-mail, or (iv) from links to third-party websites or (v) from access to links to third-party websites.",
+        "userTitle": "User",
+        "user": "This App is intended exclusively for users who are domiciled in Switzerland.",
+        "propertyRightsTitle": "Property rights",
+        "propertyRights": "The entire content of the App and its rights, such as copyrights, trademarks and other rights, belong exclusively and comprehensively to Keen Innovation AG, unless otherwise stated.\n\nDownloading or copying the App or parts thereof does not transfer any rights to the App. The (complete or partial) reproduction, transmission (electronically or by other means), modification, linking or use of the App for public or commercial purposes is prohibited without the prior written consent of Keen Innovation AG. All property rights remain with Keen Innovation AG. Keen Innovation AG reserves all rights with regard to all elements on the website.",
+        "dataProtectionTitle": "Data protection",
+        "dataProtection": "Keen Innovation AG makes great efforts to protect your data and your privacy. If you are interested in the IT & data protection part of our efforts, please read our \"Privacy Policy\" on this subject. There we answer questions about data security, such as observing user behavior or data exchange abroad."
+    },
+    "dataUsePolicy": {
+        "title": "Consent Newsletter",
+        "consentNewsletter": "I agree that Keen Innovation AG will send me information- and advertising-e-mail-newsletter at regular intervals. My consent is valid until revocation, which I can declare at any time with effect for the future."
+    },
+    "dataProtection": {
+        "title": "Privacy Policy",
+        "introductoryRemarksTitle": "Introductory remarks",
+        "introductoryRemarks": "With this privacy policy we inform you about the processing of personal data within the scope of the use of our websites. The abbreviation DSG stands for Swiss Data Protection Act and refers to persons in Switzerland who visit our pages (hereinafter referred to as \"persons from Switzerland\").\n\nResponsible in the sense of the data protection legislation and other regulations with data protection character is:\n\nKeen Innovation AG, Henric-Petri Strasse 6, 4051 Basel, www.keen-innovation.ch",
+        "rightsTitle": "Rights",
+        "rightOfAccessTitle": "Right of access",
+        "rightOfAccess": "Pursuant to Art. 8 DSG, you have the right to request confirmation from us as to whether personal data relating to you will be processed by us. If this is the case, then you have a right to information about this personal data and to further information, which is mentioned in Art. 8 DSG.",
+        "rightToRectificationTitle": "Right to rectification",
+        "rightToRectification": "According to Art. 5 DSG, you have the right to demand that we correct incorrect personal data concerning you without delay. Furthermore, taking into account the purposes of the processing, you have the right to request the completion of incomplete personal data.",
+        "rightToDeletionTitle": "Right to deletion",
+        "rightToDeletion": "Persons from Switzerland also have the possibility, in the cases provided for by law, to request the deletion of data, e.g. if data is no longer required / necessary or the consent for processing has been revoked.",
+        "rightOfAppealSupervisoryAuthorityTitle": "Right of appeal Supervisory authority",
+        "rightOfAppealSupervisoryAuthority": "Persons from Switzerland may avail themselves of the legal remedies provided for in Art. 15 / 25 / 27 / 29 DSG.",
+        "executionOfYourRightsTitle": "Execution of your rights",
+        "executionOfYourRights": "If you wish to exercise any right you are entitled to, please contact us at the above contact details or use any of the other methods we offer to communicate with us. If you have any questions, please do not hesitate to contact us. ",
+        "dataProtectionOfficerTitle": "Data protection officer",
+        "dataProtectionOfficer": "You can complain about the processing of personal data by us to the Federal Data Protection and Public Relations Officer and take legal action under civil and/or public law.",
+        "serverLogFilesTitle": "Server Log Files",
+        "serverLogFiles": "When you call up our website, the company commissioned by us to operate the website processes and stores technical information about the terminal device you are using (operating system, screen resolution and other non-personal features) as well as the browser (version, language settings), in particular the public IP address of the computer with which you visit our website, including the date and time of access. The IP address is a unique numeric address at which your terminal device sends or retrieves data to the Internet. As a rule, we or our service provider do not know who is behind an IP address unless you provide us with data during the use of our website that enables us to identify you. Furthermore, a user may be identified if legal action is taken against him or her (e.g. in the event of attacks against our website) and we gain knowledge of his or her identity as part of the investigation procedure. As a rule, you do not have to worry that we will be able to assign your IP address to you.\n\nOur service provider does use the processed non-personal data for statistical purposes so that we can track which end devices with which settings are used to visit our website in order to optimize them for these purposes if necessary. These statistics do not contain any personal data. The basis for the compilation of statistics is our interest in improving and operating our business economically.\n\nThe IP address is further used so that you can call up and use our website technically as well as for the recognition and defense of attacks against our service provider or our website. Unfortunately there are always attacks to harm the operators of websites or their users (e.g. preventing access, spying on data, spreading malicious software [e.g. viruses] or other unlawful purposes). Such attacks would impair the proper functioning of the data centre of the company commissioned by us, the use of our website or its functionality and the security of visitors to our website. The processing of the IP address including the time of access is done to defend us against such attacks. With this processing, we pursue the legitimate interest through our service provider to ensure the functionality of our website and to ward off illegal attacks against us and the visitors to our website. Basis for processing is the improvement and economic operation of our business.\n\nThe stored IP data is deleted (by anonymization) when it is no longer needed for the detection or defense of an attack.",
+        "cookiesTitle": "Cookies",
+        "cookies": "We use cookies and similar technologies (local storage) for the operation of our website, to ensure the technical functionality of our website, to understand how visitors use our website and to store preferences in a user's browser.\n\nA cookie is a small text file that is stored on your terminal device when our website is accessed by your browser. If you call up our website again later, we can read out these cookies again. Cookies are stored for different lengths of time. You can set your browser at any time, which cookies to accept and which not, but this may result in our website no longer functioning properly. You can also delete cookies yourself at any time. If you do not do this, we can specify how long a cookie should be stored on your computer when you save it. A distinction must be made here between so-called session cookies and permanent cookies. Session cookies are deleted from your browser when you leave our website or when you exit the browser. Permanent cookies are stored for the duration that we specify.\n\nWe use cookies for the following purposes:\n\n- Technically necessary cookies that are absolutely necessary for the use of the functions of our website (e.g. recognition of whether you have logged in). Without these cookies, certain functions could not be provided.\n\n- Functional cookies that are used to technically perform certain functions that you wish to use.\n\n- Analysis cookies that are used to analyze your user behavior.\n\n- Third party cookies. Third-party cookies are stored by third parties whose functions we incorporate into our website to enable certain functions. They can also be used to analyze user behavior. \n\nMost browsers used by our users allow you to choose which cookies to store and to delete (certain) cookies. If you limit the storage of cookies to certain websites or do not allow cookies from third party websites, this may under certain circumstances mean that our website can no longer be used to its full extent. Here you will find information on how to adjust the cookie settings for the most common browsers:\n\n- Google Chrome (support.google.com/chrome/answer/95647?hl=en)\n\n- Internet Explorer (https://support.microsoft.com/de-de/help/17442/windows-internet-explorer-delete-manage-cookies)\n\n- Firefox (https://support.mozilla.org/de/kb/cookies-erlauben-und-ablehnen)\n\n- Safari (https://support.apple.com/kb/PH21411?locale=de_DE) \"",
+        "contactFormTitle": "Contact form / Order of a report",
+        "contactForm": "If you send us a message via one of the contact options offered, we will use the data you provide to us to process your request. The basis for this is our legitimate interest in responding to your request. If your inquiry serves the conclusion of a contract with us, further basis for the processing is the fulfillment of this contract. The data will be deleted after your request has been processed. If we should be legally obliged to a longer storage, the deletion takes place after expiration of the appropriate period.",
+        "disclosureOfDataTitle": "Disclosure of data to third parties",
+        "disclosureOfData": "As a matter of principle, we do not pass on the personal data provided to us to third parties, i.e. in particular not to third parties for advertising purposes.\n\nHowever, we cooperate with third parties for the operation of these website or for the provision of products / services. It may happen that such third parties gain knowledge of personal data. We carefully select our service providers - particularly with regard to data protection and data security - and take all measures required under data protection law for permissible data processing.",
+        "dataProcessingTitle": "Data processing in Switzerland / in the EU",
+        "dataProcessing": "We generally process data in Switzerland (server log files, contact form, registration, cookies). For Switzerland, the EU has established an adequate level of data protection by Decision 2000/518/EC. Service providers of ours, whose plugins and tools we use, process data outside the EU. This will be disclosed within the framework of this data protection declaration when clarifying the plug-ins / tools used.\n\nWe ensure that the provider is located in a country with an adequate level of data protection in accordance with Swiss law (Art. 7 VDSG). \n\nThe appropriate level of data protection is guaranteed within the framework of participation in the so-called \"Privacy Shield\" and the measures taken by the service provider for data protection and data security.",
+        "googleAnalyticsTitle": "Google Analytics",
+        "googleAnalytics": "We may use Google Analytics, a service provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, as the case may be via the Google Tag Manager. Google uses a so-called \"cookie\" as data processor for this purpose. This is a small text file that is stored on your computer by your browser. Google uses this cookie to obtain information about which website you have visited and, in particular, the following information: browser type/version, operating system used, technical information about the operating system and the browser, and the public IP address of the computer you are using. We use Google Analytics in such a way that your IP address is only used in anonymous form. This anonymization will take place base as notified by Google in the European Union or a member state of the EEA. Only in exceptional cases should the full IP address be transmitted to a Google server in the USA and only shortened there. According to Google, anonymization takes place before the IP address is stored on a permanent data carrier for the first time. For details, we refer you to Google's privacy policy, available at https://support.google.com/analytics/answer/6004245?hl=de.\n\nGoogle Analytics allows us, in a non-personally identifiable form, to compile usage statistics for our website and demographic data about visitors and their behavior. We also compile statistics that help us better understand how our website is found in order to improve our search engine optimization and advertising efforts. We pursue with this processing the legitimate interest to be able to improve our web page as well as our advertising measures.\n\nYou can find information at https://tools.google.com/dlpage/gaoptout?hl=de on how you can object to the use of Google Analytics.\n\nAs an alternative to the browser add-on or within browsers on mobile devices, please click this link to prevent Google Analytics from collecting data from this website in the future (the opt-out works only in this browser and only for this domain). An opt-out cookie is stored on your device. If you delete your cookies in this browser, you must click this link again.",
+        "adSenseTitle": "Ad Sense",
+        "adSense": "This website uses Google AdSense, a service for the integration of Google advertisements. Provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.\n\nGoogle AdSense uses \"cookies\", which are text files placed on your computer, to help the website analyze how users use the site. Google AdSense also uses so-called web beacons (invisible graphics). Through these web beacons, information such as visitor traffic on these pages can be evaluated.\n\nThe information generated by cookies and web beacons about the use of this website (including your IP address) and the delivery of advertising formats will be transmitted to and stored by Google on servers in the United States. This information may be shared by Google with Google's contract partners. However, Google will not merge your IP address with any other data of you.\n\nAdSense cookies are stored on the basis of our legitimate interest in analyzing user behavior in order to optimize both our website and our advertising measures.",
+        "googleAdsTitle": "Google Ads",
+        "googleAds": "This website uses Google Ads. Ads is an online advertising program of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (\"Google\").\n\nWithin the framework of Google Ads, we use so-called conversion tracking. When you click on an ad placed by Google, a conversion tracking cookie is set. Cookies are small text files that the Internet browser stores on the user's computer. These cookies lose their validity after 30 days and do not serve the personal identification of the users. If the user visits certain pages of this website and the cookie has not expired, Google and we may recognize that the user clicked on the ad and was directed to that page.\n\nEach Google Ads customer receives a different cookie. The cookies cannot be tracked through various ads customer websites. The information collected using the conversion cookie is used to generate conversion statistics for ads customers who have opted for conversion tracking. Customers see the total number of users who clicked on their ad and were redirected to a page with a conversion tracking tag. However, you will not receive any information that personally identifies users. If you do not wish to participate in tracking, you can object to this use by deactivating the Google Conversion Tracking cookie in your Internet browser under User Settings. They will then not be included in the conversion tracking statistics.\n\nConversion cookies are stored on the basis of legitimate interest in analyzing user behavior in order to optimize both the website and our advertising measures.\n\nYou can set your browser so that you are informed about the setting of cookies and only allow cookies in individual cases, accept cookies for certain cases or generally exclude them and activate the automatic deletion of cookies when closing the browser. If cookies are deactivated, the functionality of this website may be limited.",
+        "newsletterTitle": "Newsletter",
+        "newsletter": "If you subscribe to our email newsletter, the data you provide will be processed for the creation and dispatch of the newsletter and for proof of subscription to our newsletter until your revocation. The basis for the processing is your consent. To send the newsletter, you must click on the confirmation link in the verification email that we will send you after your registration to prove your consent. By clicking on the corresponding link, we process the public IP address of the computer from which the link is accessed, together with the date and time of the click. We process this data in order to provide proof that you have confirmed receipt of our email newsletter. \n\nOur legitimate interest in this is the fulfilment of our duty to provide evidence of the subscriber you have made. \n\nYou can revoke your consent at any time by unsubscribing from the newsletter. You will find a corresponding link at the end of each newsletter. \n\nWe delete your data after unsubscribing from the newsletter. The data which we require as proof that you have consented to the sending of the newsletter will be deleted after the expiry of the statute of limitations for corresponding obligations to provide evidence. ",
+        "personalizedNewsletterTitle": "Personalized newsletter",
+        "personalizedNewsletter": "To personalize the content of your newsletter by determining your alleged interests. We use data derived from your interactions with previously sent newsletters (e.g. when you read on which devices and which links you clicked), with our website, with other advertising media (e.g. advertising on the Internet, such as on social media platforms such as Facebook, Google or Twitter), your search and order history, your profile data and settings as well as other content that you deliberately send to us on the website. As part of this process, we use this data to determine your preferences in order to design your newsletter individually so that we believe it may be of interest to you.\n\nWe process these data in the context of our justified interest in the improvement of our advertising measures and our offers. You can object to this personalization at any time. ",
+        "adaptationOfPrivacyPolicyTitle": "Adaptation of privacy policy",
+        "adaptationOfPrivacyPolicy": "We always keep this privacy policy up to date. Therefore, we reserve the right to change it from time to time and to update changes in the collection, processing or use of your data. The current version of the data protection declaration is always available at the following address:\n\nhttps://hyppo.ch/data-protection"
+    },
+    "keen": {
+        "title": "We are Keen",
+        "keen": "keen",
+        "firstParagraph": "Following this principle, we – the team of Keen Innovation AG – are identifying unsolved customer problems and test solutions. We closely collaborate with our customers and with innovators in the local and global FinTech ecosystem.",
+        "secondParagraph": "We are a diverse team of innovators with experience in multiple industries and now focussing around customer problems in the financial sector. The company is financed by two banks (Bank Cler & Basler Kantonalbank) and incorporated in Basel.",
+        "link": "For further information please visit www.wearekeen.ch"
+    },
+    "start": {
+        "intro": {
+            "startParagraph": "Hyppo",
+            "firstParagraph": "will be your little guide through the world of mortgages.",
+            "secondParagraph": "Our goal is to make your path to owning a home as smooth as possible and to provide you with the best advice regarding home ownership in Switzerland",
+            "thirdParagraph": "All we need to get started is a little information about you and your financial situation."
+        },
+        "personalInformation": {
+            "title": "Personal information",
+            "firstParagraph": "Switzerland has strict rules about foreign nationals purchasing real estate.",
+            "secondParagraph": "Depending on your country of origin and length of stay in Switzerland, your options may be limited.",
+            "thirdParagraph": "Let’s find out if you qualify.",
+            "questions": {
+                "firstQuestion": {
+                    "firstPart": "I am",
+                    "secondPart": "old"
+                },
+                "secondQuestion": {
+                    "firstPart": "I have lived in",
+                    "secondPart": "Switzerland since"
+                },
+                "thirdQuestion": "I am a citizen of",
+                "fourthQuestion": {
+                    "firstPart": "I have",
+                    "secondPart": "residence permit."
+                }
+            }
+        },
+        "additionalPersonalInformation": {
+            "title": "Personal information",
+            "questions": {
+                "firstQuestion": "I'm",
+                "secondQuestion": "I have",
+                "thirdQuestion": "I'm",
+                "fourthQuestion": "My postal code is",
+                "fifthQuestion": "Spouse gainfully",
+                "incorrectZipCode": "Sorry, unknown city"
+            },
+            "childModal": {
+                "first": "Aged 0-11",
+                "second": "Aged 12-15",
+                "third": "Aged 16+",
+                "footer": {
+                    "clearButton": "Clear",
+                    "saveButton": "Done"
+                }
+            },
+            "childSelect": {
+                "noChild": "no children",
+                "child": "child",
+                "children": "children",
+                "before12": "(aged 0-11)",
+                "after12before16": "(aged 12-15)",
+                "after16": "(aged 16+)"
+            }
+        },
+        "footer": {
+            "btnNext": "Next",
+            "buttonResults": "Get results"
+        },
+        "thanks": {
+            "title": "That’s great! Thanks!",
+            "paragraph": "Now we need to ask you for some numbers so that we can make the calculations."
+        },
+        "propertyPrice": {
+            "title": "Price of considered property",
+            "paragraph": "Have you already chosen a property that you would like to purchase, or do you know how much you want to spend on a property? If not, we will use 700,000 CHF for our calculations.",
+            "yes": "Yes",
+            "no": "No"
+        },
+        "downpayment": {
+            "title": "Down payment",
+            "paragraph": "In Switzerland, you must pay for at least 20% of the property price on your own. At least 10% of this must be paid for in cash and you can use your retirement savings for the remainder.",
+            "learnMore": "Learn more"
+        },
+        "cashSavings": {
+            "title": "Cash savings",
+            "paragraph": "How much cash savings do you currently have? Cash savings includes bank deposits, stocks, bonds and cryptoassets – these can all be used to finance your property."
+        },
+        "retirementSavings": {
+            "title": "Retirement savings",
+            "paragraph": "You can finance a part of the property price with savings from your 3rd pension pillar. How much have you saved? You can also leave it at 0.",
+            "learnMore": "Learn more",
+            "sliderTitle": "3rd Pillar"
+        },
+        "incomeIntro": {
+            "title": "Income",
+            "firstParagraph": "In order to estimate your affordability range, we need to know your annual income.",
+            "secondParagraph": "You will also need to share additional information such as the number of children in your family and if you are a member of the church. These are factors that influence what you must pay in taxes in Switzerland.",
+            "learnMore": "Learn more"
+        },
+        "income": {
+            "title": "Income",
+            "description": "Please indicate household income before taxes and without cash bonus."
+        },
+        "currentRent": {
+            "title": "Current rent",
+            "paragraph": "And our last question: how much do you pay in rent for your current flat or house?"
+        },
+        "lastStep": {
+            "title": "Last step",
+            "paragraph": "To see your personal mortgage report, please provide your name and email:",
+            "footnotePart1": "We will treat your information with respect. Your data will not be transferred to unauthorized parties under any circumstances.",
+            "footnotePart2": "We also promise not to spam and will send you maximum 2 followup emails."
+        },
+        "menu": {
+            "intro": "Intro",
+            "personalInformation": "Personal information",
+            "propertyPrice": "Property price",
+            "downPayment": "Down payment",
+            "cashSavings": "Cash savings",
+            "retirementSavings": "Retirement savings",
+            "income": "Income",
+            "taxInformation": "Tax information",
+            "currentRent": "Current rent"
+        }
+    },
+    "results": {
+        "cards": {
+            "title": "Results",
+            "footer": {
+                "details": "Click for details"
+            },
+            "firstCard": {
+                "title": "Legal requirements",
+                "positive": "You are allowed to purchase property in Switzerland",
+                "negative": "You aren't allowed to purchase property in Switzerland"
+            },
+            "secondCard": {
+                "title": "Monthly payments",
+                "firstSubtitle": "Total",
+                "month": "month",
+                "interest": "interest",
+                "years": "years",
+                "year": "year"
+            },
+            "thirdCard": {
+                "title": "One-time payments",
+                "firstSubtitle": "Down payment",
+                "secondSubtitle": "Taxes etc."
+            },
+            "fourthCard": {
+                "title": "Affordability Range",
+                "firstSubtitle": "Considered option",
+                "secondSubtitle": "Limit"
+            },
+            "fifthCard": {
+                "title": "Renting vs. buying",
+                "firstParagraphOwning": "In your current situation, monthly costs of owning a home are",
+                "firstParagraphRenting": "In your current situation, monthly costs of renting a home are",
+                "secondParagraphRenting": "than the rent",
+                "secondParagraphOwning": "than the own",
+                "cheaper": "lower",
+                "breakEven": {
+                    "firstOptionPart1": "Buying the home that you are currently renting will pay off",
+                    "firstOptionPart2": "after {{value}}",
+                    "secondOptionPart1": "In the long term, owning is",
+                    "thirdOptionPart1": "In the long term, renting is",
+                    "years": "years",
+                    "year": "year",
+                    "after": "after",
+                    "cheaper": "always cheaper"
+                }
+            },
+            "sixthCard": {
+                "title": "Get as PDF"
+            },
+            "sevenCard": {
+                "title": "Your feedback is appreciated"
+            },
+            "eightCard": {
+                "title": "Get a detailed report"
+            }
+        },
+        "legalRequirements": {
+            "title": "Legal Requirements",
+            "firstPart": {
+                "title": "Above 18 years old",
+                "yes": "Yes",
+                "no": "No"
+            },
+            "secondPart": {
+                "title": "Citizenship"
+            },
+            "thirdPart": {
+                "title": "Permit type"
+            }
+        },
+        "monthlyPayments": {
+            "title": "Monthly payments",
+            "firstTab": {
+                "totalText": "These are fixed monthly costs that are directly related to your debt to the bank, as well as additional costs that come with home ownership.",
+                "interest": {
+                    "title": "Interest",
+                    "paragraph": "Interest rates for mortgages in Switzerland range between 0.3% and 5% depending on your financial and famility situation,  credit ranking and market conditions."
+                },
+                "amortisation": {
+                    "title": "Amortisation",
+                    "paragraph": "This is the process of paying off a debt in a series of instalments over time. In this case, if more than 2/3 of the purchase price is financed by the bank, your debt has to be reduced to 2/3 of the purchase price within 15 years or by the time you retire."
+                },
+                "maintenance": {
+                    "title": "Maintenance",
+                    "paragraph": "These are costs that arise from the maintenance and repair of your property. The reference value is 1% of the property price annually."
+                }
+            },
+            "total": "Total",
+            "monthly": "monthly"
+        },
+        "rentingVsBuying": {
+            "title": "Renting vs. buying",
+            "firstTab": {
+                "title": "Monthly cost",
+                "leftChartTitle": "Rent",
+                "rightChartTitle": "Buy",
+                "month": "mo.",
+                "firstDescriptionPartOwning": "In your case, owning a home is",
+                "firstDescriptionPartRenting": "In your case, renting a home is",
+                "cheaper": "cheaper",
+                "secondDescriptionPartRenting": "than renting it",
+                "secondDescriptionPartOwning": "than owning home"
+            },
+            "secondTab": {
+                "title": "Break even",
+                "chart": {
+                    "firstLegendItem": "Owning",
+                    "secondLegendItem": "Renting",
+                    "info": {
+                        "label": "What does it mean?",
+                        "title": "Break even",
+                        "description": "For any property, you can calculate the length of stay for which buying becomes the cheaper option. For example, you could buy a flat for 500,000 CHF or rent it for 24,000 CHF a year. If you are planning to stay more than 4 years, you should buy. If less, then rent this home. Rent in the short-term, buy in the long-tern."
+                    }
+                }
+            },
+            "thirdTab": {
+                "title": "Factors to consider",
+                "tableTitles": {
+                    "renting": "Renting",
+                    "buying": "Buying"
+                },
+                "flexibility": {
+                    "label": "Flexibility",
+                    "title": "More flexibility with sudden moves",
+                    "description": "If your landlord keeps raising rent or you have a sudden change of personal circumstances, it is easy to relocate."
+                },
+                "maintenance": {
+                    "label": "Maintenance",
+                    "title": "No hassle of home maintenance",
+                    "description": "Your landlord is responsible for all repairs and improvements; you have nothing to worry about."
+                },
+                "lowInterest": {
+                    "label": "Low interest",
+                    "title": "Low interest rates",
+                    "description": "With interest rates near record lows, it could mean lower mortgage payments for those who buy now."
+                },
+                "customisation": {
+                    "label": "Customisation",
+                    "title": "Customise",
+                    "description": "Owning a place of your own can give you the freedom to customise it the way you want. Painting, landscaping and many more choices are all yours!"
+                },
+                "equity": {
+                    "label": "Equity",
+                    "title": "Building equity",
+                    "description": "With each payment, the amount of total home ownership increases and accumulates over time."
+                },
+                "taxBenefits": {
+                    "label": "Tax Benefits",
+                    "title": "Tax Benefits",
+                    "description": "Often, you can subtract interest payment from your taxable income."
+                }
+            }
+        },
+        "oneTimePayments": {
+            "title": "One-time payments",
+            "totalText": "In addition to down payment, which is mandatory, we provide a rough estimation of additional costs that are often overseen by those who plan to buy a property. For example, The contract for buying a house or apartment must be officially certified by a notary in order to be valid. In addition to that, you only become the owner of the property when you are entered in the Land Register. Such fees are usually shared between the purchaser and the seller",
+            "downpayment": {
+                "title": "Down payment",
+                "paragraph": "This is what you are required to pay up-front when you purchase a property with a mortgage. The down payment is at least 20% of the purchase price."
+            },
+            "propertyTransferTax": {
+                "title": "Property transfer \n tax",
+                "paragraph": " A fee for a new entry in a public register that maintains records of property such as plans and property directories. The fees vary in each canton but typically range between 1-1.5%. In our calculation we assume it to be 1%."
+            },
+            "notaryFees": {
+                "title": "Notary fees",
+                "paragraph": "A notary will have to verify the purchase between the seller and the buyer. This fee varies from canton to canton and is between 0.2% and 1% of the purchase price. In our calculation we assume it to be 0.5%."
+            }
+        },
+        "affordabilityRange": {
+            "title": "Affordability range",
+            "consideredOption": "considered option",
+            "affordabilityLimit": "you can certainly afford anything up to here",
+            "description": "This isn't the final answer. Sometimes, it is possible to purchase a property that exceeds your affordability limit after your application has been reviewed by a mortgage advisor. Your next step should be getting in touch with a bank."
+        },
+        "saveReport": {
+            "title": "Save Report",
+            "titleD": "Get a detailed report",
+            "nameInputLabel": "First and Last name",
+            "emailInputLabel": "EMail address",
+            "dataUsePolicyDescription": "By clicking Send you agree with",
+            "dataUsePolicyLink": "data use policy",
+            "btnSend": "Send",
+            "errorNameMessage": "Incorrect first and last name",
+            "errorEmailMessage": "Incorrect email address",
+            "footnote": "This report is provided by",
+            "companyName": "Keen Innovation",
+            "note": "We promise not to spam and will send you maximum 2 followup emails"
+        },
+        "feedback": {
+            "title": "Your feedback is appreciated!",
+            "description": "In order to improve our app, we would like to know which step should be next:",
+            "saveToReview": "Save this report to review later",
+            "shareReport": "Share this report",
+            "contactAdvisior": "Contact a mortgage advisior to see your options",
+            "viewProperties": "View properties that match your financial situation",
+            "hasBeenSent": {
+                "first": "Thank you!",
+                "second": "Your feedback has been sent"
+            },
+            "footer": {
+                "doneButton": "Done"
+            }
+        },
+        "report": {
+            "title": "Get as PDF",
+            "hasBeenSent": "Report has been sent",
+            "footer": {
+                "doneButton": "Done"
+            }
+        },
+        "mortgageParameters": {
+            "title": "Adjust  parameters",
+            "buttonText": "Done",
+            "sliders": {
+                "first": "Interest rate",
+                "second": "Duration",
+                "third": "Property price",
+                "years": "years"
+            },
+            "description": "As a rule of thumb, interest rates increase with the mortgage duration. Below are a few examples that reflect the current market situation:",
+            "additionalInfo": {
+                "months": "months",
+                "years": "years",
+                "flexible": "LIBOR flexible",
+                "fixed": "Fixed-rate"
+            }
+        }
+    },
+    "data": {
+        "cards": {
+            "title": "My Profile",
+            "footer": {
+                "details": "Edit"
+            },
+            "firstCard": {
+                "title": "Personal information",
+                "firstParagraph": "years old",
+                "secondParagraph": "In Switzerland since",
+                "thirdParagraph": "From"
+            },
+            "secondCard": {
+                "title": "Savings",
+                "firstSubtitle": "Cash",
+                "thirdSubtitle": "3nd Pillar"
+            },
+            "thirdCard": {
+                "title": "Income",
+                "firstSubtitle": "Annual household income before taxes",
+                "secondSubtitle": "Additional Information",
+                "churchMember": "A church member",
+                "notChurchMember": "Not a church member",
+                "children": "children",
+                "child": "child",
+                "noChildren": "No children"
+            },
+            "fourthCard": {
+                "title": "Current rent",
+                "month": "month"
+            },
+            "fifthCard": {
+                "title": "Price of considered property"
+            }
+        },
+        "personalInformation": {
+            "title": "Personal information"
+        },
+        "footer": {
+            "save": "Save"
+        },
+        "currentRent": {
+            "title": "Current Rent"
+        },
+        "savings": {
+            "title": "Savings",
+            "sliderSavings": "Cash",
+            "sliderThirdPillar": "3rd Pillar",
+            "learnMore": "Learn more"
+        },
+        "propertyPrice": "Price of considered property",
+        "income": {
+            "title": "Income",
+            "sliderTitle": "Annual before taxes",
+            "description": "Annual household income before taxes"
+        },
+        "menu": {
+            "personalInformation": "Personal information",
+            "savings": "Savings",
+            "annualIncome": "Annual income",
+            "additionalInformation": "Additional information",
+            "currentRent": "Current rent",
+            "propertyPrice": "Property price"
+        }
+    },
+    "common": {
+        "message": {
+            "surprise": "You don’t need a mortgage in this case 🎉"
+        }
+    },
+    "notFound": {
+        "firstParagraph": "We looked everywhere",
+        "secondParagraph": "Seems like this page is missing"
+    }
 }
