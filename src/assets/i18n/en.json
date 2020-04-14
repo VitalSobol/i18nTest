@@ -14,7 +14,8 @@
             "description": "If you start over, your previously entered data as well as personal report will be lost",
             "cancel": "Cancel",
             "confirm": "Confirm"
-        }
+        },
+        "title2": "dasfasdf"
     },
     "termsOfUse": {
         "title": "Terms of Use / Legal Notices",
