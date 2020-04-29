@@ -1,21 +1,20 @@
 {
-  "home": {
-    "title": "Hyppo Helper V8",
-    "description": "Are you ready to become a homeowner? Let’s find out!",
-    "startButtonText": "Start",
-    "startOverButtonText": "Start Over",
-    "myResultsButtonText": "Results",
-    "myDataButtonText": "My profile",
-    "termsOfUse": "Terms of Use",
-    "dataProtection": "Privacy Policy",
-    "weAreKeen": "We are Keen",
-    "warningPopup": {
-      "title": "Warning5",
-      "description": "If you start over, your previously entered data as well as personal report will be lost",
-      "cancel": "Cancel",
-      "confirm": "Confirm"
-    },
-    "title2": "dasfasdf"
-  }
+    "home": {
+        "title": "Hyppo Helper V11",
+        "description": "Are you ready to become a homeowner? Let’s find out!",
+        "startButtonText": "Start",
+        "startOverButtonText": "Start Over",
+        "myResultsButtonText": "Results",
+        "myDataButtonText": "My profile",
+        "termsOfUse": "Terms of Use",
+        "dataProtection": "Privacy Policy",
+        "weAreKeen": "We are Keen",
+        "warningPopup": {
+            "title": "Warning",
+            "description": "If you start over, your previously entered data as well as personal report will be lost",
+            "cancel": "Cancel",
+            "confirm": "Confirm"
+        },
+        "title2": "dasfasdf"
+    }
 }
-
