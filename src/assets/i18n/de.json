@@ -1,20 +1,20 @@
 {
-  "home": {
-    "title": "DE Hyppo Helper 2",
-    "description": "333333333322222",
-    "startButtonText": "",
-    "startOverButtonText": "",
-    "myResultsButtonText": "",
-    "myDataButtonText": "",
-    "termsOfUse": "",
-    "dataProtection": "",
-    "weAreKeen": "",
-    "warningPopup": {
-      "title": "",
-      "description": "",
-      "cancel": "",
-      "confirm": ""
-    },
-    "title2": ""
-  }
+    "home": {
+        "title": "DE Hyppo Helper V14",
+        "description": "3333333333",
+        "startOverButtonText": "",
+        "myResultsButtonText": "",
+        "myDataButtonText": "",
+        "termsOfUse": "",
+        "dataProtection": "",
+        "weAreKeen": "",
+        "warningPopup": {
+            "title": "",
+            "description": "",
+            "cancel": "",
+            "confirm": ""
+        },
+        "title2": "",
+        "title3": ""
+    }
 }
