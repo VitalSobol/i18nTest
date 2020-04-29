@@ -1,7 +1,7 @@
 {
     "home": {
         "title": "DE Hyppo Helper V14",
-        "description": "3333333333",
+        "description": "3333333333 v16",
         "startOverButtonText": "",
         "myResultsButtonText": "",
         "myDataButtonText": "",
@@ -16,5 +16,11 @@
         },
         "title2": "",
         "title3": ""
+    },
+    "homePage": {
+        "btnShow": ""
+    },
+    "homePage.start": {
+        "btnNext": ""
     }
 }
