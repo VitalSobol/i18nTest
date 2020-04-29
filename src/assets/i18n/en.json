@@ -1,8 +1,7 @@
 {
     "home": {
-        "title": "Hyppo Helper V11",
+        "title": "Hyppo Helper V12",
         "description": "Are you ready to become a homeowner? Let’s find out!",
-        "startButtonText": "Start",
         "startOverButtonText": "Start Over",
         "myResultsButtonText": "Results",
         "myDataButtonText": "My profile",
