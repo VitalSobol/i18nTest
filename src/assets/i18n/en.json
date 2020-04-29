@@ -16,5 +16,11 @@
         },
         "title2": "dasfasdf",
         "title3": "Title 3"
+    },
+    "homePage": {
+        "btnShow": ""
+    },
+    "homePage.start": {
+        "btnNext": ""
     }
 }
